@@ -1,0 +1,14 @@
+{
+  "name": "beer-sales",
+  "version": "1.0.0",
+  "description": "At what time does the beer sales in norway end - service",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
